@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lorenzo Rangel Toscano🖐️
 
-![Fraga GitHub stats]()
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorenzorangelt&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
